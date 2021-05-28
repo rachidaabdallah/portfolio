@@ -105,12 +105,12 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
   display: table;
 }
-#header .display-tc,
+/* #header .display-tc,
 .cover .display-tc {
   display: table-cell;
   vertical-align: middle;
   height: 600px;
-}
+} */
 #header .display-tc h1, #header .display-tc h2, -header .display-tc h3,
 .cover .display-tc h1,
 .cover .display-tc h2,
@@ -310,7 +310,9 @@ nav{
 }
 
 
-
+.moi{
+  text-align: right;
+}
 
 
 
@@ -386,7 +388,7 @@ nav{
 
 
 
-/* 
+
 #fh5co-features {
   background: #FF9000;
 }
@@ -442,7 +444,7 @@ nav{
 }
 #fh5co-features .feature-left p a {
   color: #000 !important;
-} */
+}
 
 /* #a_propos,
 #competences,
