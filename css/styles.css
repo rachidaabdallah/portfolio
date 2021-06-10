@@ -54,10 +54,11 @@ h1{
 
   
   nav {
+    background-color:  #0b1237e6 !important;
+font-weight: bold;
     height: 60px;
     width: 100%;
 
-  background-color:  #0b1237e6 !important;
 
 }
 .navbar-collapse{
@@ -418,4 +419,8 @@ color: #fff !important;
   margin-top: 15px;
   margin-bottom: 15px;
 
+}
+ #projetsDetail {
+  text-align: center;
+background-color: #716f6fb4 !important;
 }
