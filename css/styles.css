@@ -432,3 +432,6 @@ background-color: #716f6fb4 !important;
 .describe{
   min-height: 150px;
 }
+.socialBottom{
+  margin-bottom: -23px;
+}
