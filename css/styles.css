@@ -6,6 +6,7 @@
 html, body{
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
 
 }
 .container-fluid{
@@ -46,6 +47,7 @@ h1{
   }
   h3{
     color: black;
+    min-height: 74px;
   }
   img {
     width: 100%;
@@ -423,4 +425,10 @@ color: #fff !important;
  #projetsDetail {
   text-align: center;
 background-color: #716f6fb4 !important;
+}
+.proprio{
+  margin-top: 1rem;
+}
+.describe{
+  min-height: 150px;
 }
