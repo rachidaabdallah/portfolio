@@ -44,6 +44,7 @@ h1{
   h2{
     color: rgb(75, 75, 75);
     margin-top: 15px !important;
+    font-weight: bold !important;
   }
   h3{
     color: black;
@@ -434,4 +435,7 @@ background-color: #716f6fb4 !important;
 }
 .socialBottom{
   margin-bottom: -23px;
+}
+.title{
+  min-height: 0px !important;
 }
